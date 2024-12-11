@@ -6,8 +6,8 @@
             <role>Director</role>
         </employee>
         <employee id="102">
-            <name>Jane Smith</name>
-            <role>DevOps Specialist</role>
+            <name>Jeff Chernow</name>
+            <role>CEO</role>
         </employee>
     </department>
 <employee id="103">
