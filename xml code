@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company>
-    <department name="Development & Sales Team">
+    <department name="Pipeline project">
         <employee id="101">
             <name>John Doe</name>
             <role>Director</role>
