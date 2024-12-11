@@ -1,0 +1,53 @@
+import java.util.Scanner;
+
+public class Calculator {
+
+    // Method to perform calculations
+    public static double calculate(double num1, double num2, char operator) {
+        switch (operator) {
+            case '+':
+                return num1 + num2;
+            case '-':
+                return num1 - num2;
+            case '*':
+                return num1 * num2;
+            case '/':
+                if (num2 != 0) {
+                    return num1 / num2;
+                } else {
+                    throw new ArithmeticException("Division by zero is not allowed.");
+                }
+            default:
+                throw new IllegalArgumentException("Invalid operator: " + operator);
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Welcome to the Calculator!");
+        
+        try {
+            // Input numbers
+            System.out.print("Enter the first number: ");
+            double num1 = scanner.nextDouble();
+
+            System.out.print("Enter the second number: ");
+            double num2 = scanner.nextDouble();
+
+            // Input operator
+            System.out.print("Enter an operator (+, -, *, /): ");
+            char operator = scanner.next().charAt(0);
+
+            // Perform calculation
+            double result = calculate(num1, num2, operator);
+
+            // Output result
+            System.out.println("The result is: " + result);
+        } catch (Exception e) {
+            System.out.println("Error: " + e.getMessage());
+        } finally {
+            scanner.close();
+        }
+    }
+}
