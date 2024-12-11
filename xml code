@@ -3,15 +3,15 @@
     <department name="Pipeline project">
         <employee id="101">
             <name>Ashley Collins</name>
-            <role>Director</role>
+            <role>CEO</role>
         </employee>
         <employee id="102">
             <name>Jeff Chernow</name>
-            <role>CEO</role>
+            <role>COO</role>
         </employee>
     </department>
 <employee id="103">
             <name>Smith Wilkins</name>
-            <role>Delivery Manager</role>
+            <role>CFO</role>
         </employee>
 </company>
