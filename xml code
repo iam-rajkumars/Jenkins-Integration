@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company>
-    <department name="Engineering">
+    <department name="Dev Ops">
         <employee id="101">
             <name>John Doe</name>
-            <role>Directorr</role>
+            <role>Director</role>
         </employee>
         <employee id="102">
             <name>Jane Smith</name>
