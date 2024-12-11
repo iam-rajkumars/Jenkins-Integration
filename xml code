@@ -2,7 +2,7 @@
 <company>
     <department name="Pipeline project">
         <employee id="101">
-            <name>John Doe</name>
+            <name>Ashley Collins</name>
             <role>Director</role>
         </employee>
         <employee id="102">
@@ -11,7 +11,7 @@
         </employee>
     </department>
 <employee id="103">
-            <name>Smith Willkins</name>
+            <name>Smith Wilkins</name>
             <role>Delivery Manager</role>
         </employee>
 </company>
