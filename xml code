@@ -11,7 +11,7 @@
         </employee>
     </department>
 <employee id="103">
-            <name>Smith Wilkins</name>
+            <name>Alan Smith</name>
             <role>CFO</role>
         </employee>
 </company>
