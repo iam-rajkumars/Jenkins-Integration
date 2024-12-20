@@ -4,7 +4,7 @@
 print("Hello, World!")
 
 # Define a variable
-name = input("Enter your Stenny Rajkumar: ")
+name = input("Hi, Hello, Welcome: ")
 
 # Print a personalized greeting
 print(f"Hello, {name}! Welcome to Python.")
