@@ -1,6 +1,6 @@
 Praise the Lord, for he is good, his mercy endureth forever!!
 
-Amazing Grace
+Amazing Grace!!!
 *************
 1 Amazing grace (how sweet the sound)
 that saved a wretch like me!
