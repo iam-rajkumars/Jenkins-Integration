@@ -5,3 +5,5 @@ One more time!!
 Trying it again....
 
 Hello, hello, hi, how are you..
+
+This is Stenny, setting up the Jenkins CI/CD part..
